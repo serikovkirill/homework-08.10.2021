@@ -10,7 +10,7 @@ void f(int n)
 }
 int main()
 {
-	int n;
+	int n; //
 	cin >> n;
 	f(n);
 }
