@@ -2,7 +2,7 @@
 using namespace std;
 int main()
 {
-unsigned int a,i,k,x;
+unsigned int a,i,k,x; //
 cin>>a>>i;
 cout<<(a&~((1<<i)));
 }
