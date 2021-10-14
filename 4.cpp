@@ -9,7 +9,7 @@ int chet(int a){
 	else return 0;
 }
 int umn_8(int b) {
-	return b << 3;
+	return b << 3; //
 }
 int main() {
 	int a, b;
